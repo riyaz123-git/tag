@@ -1,6 +1,2 @@
 one
-=======
-one
-two
-three
 

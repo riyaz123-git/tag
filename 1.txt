@@ -1,7 +1,4 @@
 one
-<<<<<<< HEAD
 two
 three
-=======
->>>>>>> parent of efd61a0... two
 
